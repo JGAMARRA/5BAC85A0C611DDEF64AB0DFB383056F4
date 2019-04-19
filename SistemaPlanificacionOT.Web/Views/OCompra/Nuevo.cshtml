@@ -1,0 +1,517 @@
+﻿<!-- MAIN CONTENT -->
+<div id="principal">
+    <div id="content">
+
+        <div class="row">
+            <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                <h1 class="page-title txt-color-blueDark">
+                    <!-- PAGE HEADER -->
+                    <i class="fa-fw fa fa-pencil-square-o"></i>
+                    Orden de Compra
+                    <span>
+                        >
+                        Nuevo
+                    </span>
+                </h1>
+            </div>
+        </div>
+
+        <!-- widget grid -->
+        <section id="widget-grid" class="">
+
+            <!-- START ROW -->
+            <div class="row">
+                <!-- NEW COL START -->
+                <article class="col-sm-12 col-md-12 col-lg-12">
+                    <!-- Widget ID (each widget will need unique ID)-->
+                    <div class="jarviswidget" id="wid-id-Integrante" data-widget-editbutton="false" data-widget-custombutton="false" data-widget-deletebutton="false">
+
+                        <header>
+                            <span class="widget-icon"> <i class="fa fa-edit"></i> </span>
+                            <h2> Datos de Orden de Compra </h2>
+                        </header>
+                        <!-- widget div-->
+                        <div>
+                            <!-- widget edit box -->
+                            <div class="jarviswidget-editbox">
+
+                                <!-- This area used as dropdown edit box -->
+                            </div>
+                            <!-- end widget edit box -->
+                            <!-- widget content -->
+                            <div class="widget-body">
+
+                                <div class="tabs">
+                                    <ul class="nav nav-tabs tabs-left">
+                                        <li class="active">
+                                            <a href="#tab1" data-toggle="tab">Info. Cliente <span class="badge bg-color-blue txt-color-white">1</span></a>
+                                        </li>
+                                        <li>
+                                            <a href="#tab2" data-toggle="tab">Detalle Servicios <span class="badge bg-color-blue txt-color-white">2</span></a>
+                                        </li>
+                                        <li>
+                                            <a href="#tab3" data-toggle="tab">Detalle Celda de Trabajo <span class="badge bg-color-blue txt-color-white">3</span></a>
+                                        </li>
+                               
+                                        <li>
+                                            <a href="#tab5" data-toggle="tab">Detalle Componente <span class="badge bg-color-blue txt-color-white">4</span></a>
+                                        </li>
+                                        <li>
+                                            <a href="#tab6" data-toggle="tab">Detalle Empleados <span class="badge bg-color-blue txt-color-white">5</span></a>
+                                        </li>
+                                    </ul>
+                                    <div class="tab-content">
+                                        <!-- cliente -->
+                                        <div class="tab-pane active" id="tab1">
+                                            <form id="form-Titular" class="smart-form" novalidate="novalidate">
+                                                <fieldset>
+                                                    <h4><strong>Datos Generales</strong></h4>
+                                                    <hr class="simple" />
+                                                    <div class="row">
+                                                        <div class="col col-6">
+                                                            <div class="form-group row">
+                                                                <label for="txtNroCotizacion" class="col-sm-3 col-form-label">Cotización</label>
+                                                                <input type="text" class="col-sm-5 bg-color-blueDark" id="txtNroCotizacion" value="" />
+                                                                <span class="col-sm-1"></span>
+                                                                <button type="button" class="btn btn-primary" onclick="javascript:BuscarCotizacion();" data-toggle="modal" data-target="#exampleModal" id="btnBuscarSolicitud">
+                                                                    Buscar
+                                                                </button>
+                                                            </div>
+                                                            <hr class="simple" />
+
+                                                            <div class="form-group row">
+                                                                <label for="txtCliente" class="col-sm-3 col-form-label">Cliente</label>
+                                                                <input type="text" class="col-sm-5 bg-color-blueDark" id="txtCliente" value="" />
+                                                            </div>
+                                                            <hr class="simple" />
+                                                            <div class="form-group row">
+                                                                <label for="txtEquipo" class="col-sm-3 col-form-label">Equipo</label>
+                                                                <input type="text" class="col-sm-5 bg-color-blueDark" id="txtEquipo" value="" />
+                                                            </div>
+                                                            <hr class="simple" />
+                                                            <div class="form-group row">
+                                                                <label for="ddlFPago" class="col-sm-3 col-form-label">Forma de Pago</label>
+
+                                                                <select id="ddlFPago" name="ddlFPago" class="col-sm-5 bg-color-blueDark">
+                                                                    <option value="0" selected="selected" disabled="disabled">[Seleccione Forma de Pago]</option>
+                                                                </select>
+                                                            </div>
+                                                            <hr class="simple" />
+                                                            <div class="form-group row">
+                                                                <label for="ddlResponsable" class="col-sm-3 col-form-label">Responsable</label>
+
+                                                                <select id="ddlResponsable" name="ddlResponsable" class="col-sm-5 bg-color-blueDark">
+                                                                    <option value="0" selected="selected" disabled="disabled">[Seleccione Responsable]</option>
+                                                                </select>
+                                                            </div>
+
+                                                            <hr class="simple" />
+                                                            <div class="form-group row">
+                                                                <label for="ddlMoneda" class="col-sm-3 col-form-label">Moneda</label>
+
+                                                                <select id="ddlMoneda" name="ddlMoneda" class="col-sm-5 bg-color-blueDark">
+                                                                    <option value="0" selected="selected" disabled="disabled">[Seleccione Moneda]</option>
+                                                                </select>
+                                                            </div>
+                                                            <hr class="simple" />
+                                                            <div class="form-group row">
+                                                                <label for="txtLugarServicio" class="col-sm-3 col-form-label">En Taller?</label>
+                                                                
+                                                                <input type="checkbox" id="chkLugarServicio" class="col-sm-2 bg-color-blueDark" name="txtLugarServicio" value="" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="col col-6">
+                                                            <div class="form-group row">
+                                                                <label for="txtFecRegistro" class="col-sm-3 col-form-label">Fecha Registro</label>
+                                                                <span class="col-sm-1"></span>
+                                                                @*<input type="datetime" class="col-sm-5" id="txtFecRegistro" value="" />*@
+                                                                <i class="icon-append fa fa-calendar"></i>
+                                                                <input type="text" id="txtFecRegistro" class="datepicker bg-color-blueDark" data-mask="99/99/9999" data-dateformat='dd/mm/yy'>
+                                                            </div>
+                                                            <hr class="simple" />
+                                                            <div class="form-group row">
+                                                                <label for="txtFecRecepcion" class="col-sm-3 col-form-label">Fecha Recepción Documento</label>
+                                                                <span class="col-sm-1"></span>
+                                                                @*<input type="datetime" class="col-sm-5" id="txtFecRegistro" value="" />*@
+                                                                <i class="icon-append fa fa-calendar"></i>
+                                                                <input type="text" id="txtFecRecepcion" class="datepicker bg-color-blueDark" data-mask="99/99/9999" data-dateformat='dd/mm/yy'>
+                                                            </div>
+                                                            <hr class="simple" />
+
+                                                            <div class="form-group row">
+                                                                <label for="txtFecVencimiento" class="col-sm-3 col-form-label">Fecha Vencimiento</label>
+                                                                @* <input type="datetime" class="col-sm-5" id="txtFecVencimiento" value="" />*@
+                                                                <span class="col-sm-1"></span>
+                                                                <i class="icon-append fa fa-calendar"></i>
+                                                                <input type="text" id="txtFecVencimiento" class="datepicker bg-color-blueDark" data-mask="99/99/9999" data-dateformat='dd/mm/yy'>
+                                                            </div>
+                                                            <hr class="simple" />
+                                                            <div class="form-group row">
+                                                                <label for="txtFecInicio" class="col-sm-3 col-form-label">Fecha Inicio</label>
+                                                                <span class="col-sm-1"></span>
+                                                                @*<input type="datetime" class="col-sm-5" name="txtFecTermino" value="" />*@
+                                                                <i class="icon-append fa fa-calendar"></i>
+                                                                <input type="text" id="txtFecInicio" class="datepicker bg-color-blueDark" data-mask="99/99/9999" data-dateformat='dd/mm/yy'>
+                                                            </div>
+                                                            <hr class="simple" />
+                                                            <div class="form-group row">
+                                                                <label for="txtFecTermino" class="col-sm-3 col-form-label">Fecha Termino</label>
+                                                                <span class="col-sm-1"></span>
+                                                                @*<input type="datetime" class="col-sm-5" name="txtFecTermino" value="" />*@
+                                                                <i class="icon-append fa fa-calendar"></i>
+                                                                <input type="text" id="txtFecTermino" class="datepicker bg-color-blueDark" data-mask="99/99/9999" data-dateformat='dd/mm/yy'>
+                                                            </div>
+
+                                                            <hr class="simple" />
+                                                            <div class="form-group row">
+                                                                <label for="txtTCambio" class="col-sm-3 col-form-label">Tipo Cambio</label>
+                                                                <span class="col-sm-1"></span>
+                                                                <input type="text" class="col-sm-5 bg-color-blueDark" id="txtTCambio" name="txtTCambio" value="" />
+                                                            </div>
+
+                                                            <hr class="simple" />
+                                                            <div class="form-group row">
+                                                                <label for="txtHorario" class="col-sm-3 col-form-label">Horario Emergencia?</label>
+                                                                
+                                                                <input type="checkbox" id="chkHorario" class="col-sm-3 bg-color-blueDark" name="txtHorario" value="" />
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+                                                    <header>
+                                                        <span class="widget-icon"> </span>
+
+                                                        <h4><strong>Detalle</strong></h4>
+                                                        <hr class="simple" />
+                                                    </header>
+                                                    <div class="col col-6">
+                                                        <div class="form-group row">
+                                                            <label for="txtCotVVenta" class="col-sm-3 col-form-label">Valor Venta</label>
+                                                            <input type="text" readonly class="col-sm-5 bg-color-blueDark" id="lblCotVVenta" name="txtCotVVenta" value="" />
+                                                        </div>
+                                                        <hr class="simple" />
+                                                        <div class="form-group row">
+                                                            <label for="txtCotIGV" class="col-sm-3 col-form-label">IGV</label>
+                                                            <input type="text" readonly class="col-sm-5 bg-color-blueDark" id="lblCotIGV" name="txtCotIGV" value="" />
+                                                        </div>
+                                                        <hr class="simple" />
+                                                        <div class="form-group row">
+                                                            <label for="txtCotTotal" class="col-sm-3 col-form-label">Total</label>
+                                                            <input type="text" readonly class="col-sm-5 bg-color-blueDark" id="lblCotTotal" name="txtCotTotal" value="" />
+                                                        </div>
+                                                    </div>
+                                                    <br />
+
+
+                                                </fieldset>
+                                                <div class="form-group row">
+                                                    <center>
+                                                        <a id="btnGrabar" class="btn btn-success btn-lg" href="javascript:grabar();"><i class="fa fa-check"></i> Grabar</a>
+                                                    </center>
+                                                </div>
+
+                                            </form>
+                                        </div>
+                                        <!-- detalle servicios -->
+                                        <div class="tab-pane" id="tab2">
+                                            <div class="jarviswidget" id="wid-id-0" data-widget-editbutton="false" data-widget-deletebutton="false">
+                                                <header role="heading">
+                                                    <span class="widget-icon"> <i class="fa fa-filter"></i> </span>
+                                                    <h2>Opciones</h2>
+                                                </header>
+                                                <!-- widget div-->
+                                                <div class="widget-body">
+                                                    <div class="smart-form">
+                                                        <div id="div-errors"></div>
+                                                        <form id="frm-Busqueda">
+                                                            <fieldset>
+                                                                <footer>
+                                                                    <button type="button" class="btn btn-default" onclick="javascript:AgregarServicio();" data-toggle="modal" data-target="#exampleModal" id="btnNuevoServicio">
+                                                                        <i class="fas fa-file-plus"></i> Agregar Servicio
+                                                                    </button>
+                                                                </footer>
+                                                            </fieldset>
+                                                        </form>
+                                                    </div>
+                                                </div>
+
+                                                <!-- end widget div -->
+                                            </div>
+                                            <hr class="simple" />
+                                            <div class="widget-body no-padding">
+                                                <table id="datatable_Servicios" class="table table-striped table-bordered table-hover" width="100%">
+                                                    <thead>
+                                                        <tr style="background-color:#244e40">
+                                                            <td style="width:6%"></td>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar id" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:15%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Servicio" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Cantidad" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:15%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Costo Hora" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:10%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Valor Venta" />
+                                                            </th>
+                                                        </tr>
+                                                        <tr style="background-color:#244e40">
+
+                                                            <th data-class="expand">Opc</th>
+                                                            <th>id</th>
+                                                            <th>Nombre</th>
+                                                            <th>Cantidad</th>
+                                                            <th>Costo Hora</th>
+                                                            <th>Valor Venta</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody></tbody>
+                                                </table>
+                                                <br />
+                                            </div>
+
+
+                                        </div>
+                                        <!-- detalle celda de trabajo -->
+                                        <div class="tab-pane" id="tab3">
+                                            <div class="jarviswidget" id="wid-id-0" data-widget-editbutton="false" data-widget-deletebutton="false">
+                                                <header role="heading">
+                                                    <span class="widget-icon"> <i class="fa fa-filter"></i> </span>
+                                                    <h2>Opciones</h2>
+                                                </header>
+                                                <!-- widget div-->
+                                                <div class="widget-body">
+                                                    <div class="smart-form">
+                                                        <div id="div-errors"></div>
+                                                        <form id="frm-Busqueda">
+                                                            <fieldset>
+                                                                <footer>
+                                                                    <button type="button" class="btn btn-default" onclick="javascript:AgregarCelda();" data-toggle="modal" data-target="#exampleModal" id="btnNuevoCelda">
+                                                                        <i class="fas fa-file-plus"></i> Agregar Celda Trabajo
+                                                                    </button>
+
+                                                                </footer>
+                                                            </fieldset>
+                                                        </form>
+
+                                                    </div>
+                                                </div>
+                                                <!-- end widget div -->
+                                            </div>
+                                            <hr class="simple" />
+                                            <div class="widget-body no-padding">
+                                                <table id="datatable_Celda" class="table table-striped table-bordered table-hover" width="100%">
+                                                    <thead>
+                                                        <tr style="background-color:#244e40">
+                                                            <td style="width:6%"></td>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar id" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Codigo" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Cantidad" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:10%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Precio" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:10%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Valor Venta" />
+                                                            </th>
+                                                        </tr>
+                                                        <tr style="background-color:#244e40">
+
+                                                            <th data-class="expand">Opc</th>
+                                                            <th>id</th>
+                                                            <th>Codigo</th>
+                                                            <th>Cantidad</th>
+                                                            <th>Precio</th>
+                                                            <th>Valor Venta</th>
+                              
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody></tbody>
+                                                </table>
+                                                <br />
+                                            </div>
+                                        </div>
+                                        <!-- detalle tipo componentes -->
+                                        
+                                        <!-- detalle componentes -->
+                                        <div class="tab-pane" id="tab5">
+                                            <div class="jarviswidget" id="wid-id-0" data-widget-editbutton="false" data-widget-deletebutton="false">
+                                                <header role="heading">
+                                                    <span class="widget-icon"> <i class="fa fa-filter"></i> </span>
+                                                    <h2>Opciones</h2>
+                                                </header>
+                                                <!-- widget div-->
+                                                <div class="widget-body">
+                                                    <div class="smart-form">
+                                                        <div id="div-errors"></div>
+                                                        <form id="frm-Busqueda">
+                                                            <fieldset>
+                                                                <footer>
+                                                                    <button type="button" class="btn btn-default" onclick="javascript:AgregarComponente();" data-toggle="modal" data-target="#exampleModal" id="btnNuevoCelda">
+                                                                        <i class="fas fa-file-plus"></i> Agregar Componente
+                                                                    </button>
+                                                                </footer>
+                                                            </fieldset>
+                                                        </form>
+
+                                                    </div>
+                                                </div>
+                                                <!-- end widget div -->
+                                            </div>
+                                            <hr class="simple" />
+                                            <div class="widget-body no-padding">
+                                                <table id="datatable_Componentes" class="table table-striped table-bordered table-hover" width="100%">
+                                                    <thead>
+                                                        <tr style="background-color:#244e40">
+                                                            <td style="width:6%"></td>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar id" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:10%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Codigo" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:20%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Componente" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:20%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Tipo Componente" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Cantidad" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Costo" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Valor Venta" />
+                                                            </th>
+
+
+                                                        </tr>
+                                                        <tr style="background-color:#244e40">
+                                                            <th data-class="expand">Opc</th>
+                                                            <th>id</th>
+                                                            <th>Codigo</th>
+                                                            <th>Componente</th>
+                                                            <th>Tipo Componente</th>
+                                                            <th>Cantidad</th>
+                                                            <th>Costo</th>
+                                                            <th>Valor Venta</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody></tbody>
+                                                </table>
+                                                <br />
+                                            </div>
+                                        </div>
+                                        <!-- detalle empleados -->
+                                        <div class="tab-pane" id="tab6">
+                                            <div class="jarviswidget" id="wid-id-0" data-widget-editbutton="false" data-widget-deletebutton="false">
+                                                <header role="heading">
+                                                    <span class="widget-icon"> <i class="fa fa-filter"></i> </span>
+                                                    <h2>Opciones</h2>
+                                                </header>
+                                                <!-- widget div-->
+                                                <div class="widget-body">
+                                                    <div class="smart-form">
+                                                        <div id="div-errors"></div>
+                                                        <form id="frm-Busqueda">
+                                                            <fieldset>
+                                                                <footer>
+                                                                    <button type="button" class="btn btn-default" onclick="javascript:AgregarEmpleado();" data-toggle="modal" data-target="#exampleModal" id="btnNuevoCelda">
+                                                                        <i class="fas fa-file-plus"></i> Agregar Empleado
+                                                                    </button>
+                                                                </footer>
+                                                            </fieldset>
+                                                        </form>
+
+                                                    </div>
+                                                </div>
+                                                <!-- end widget div -->
+                                            </div>
+                                            <hr class="simple" />
+                                            <div class="widget-body no-padding">
+                                                <table id="datatable_Empleados" class="table table-striped table-bordered table-hover" width="100%">
+                                                    <thead>
+                                                        <tr style="background-color:#244e40">
+                                                            <td style="width:6%"></td>
+
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar id" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:25%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Empleado" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:15%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Especialidad" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Cantidad" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Costo Regular" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Costo Extendido" />
+                                                            </th>
+                                                            <th class="hasinput" style="width:5%">
+                                                                <input type="text" class="form-control" placeholder="Filtrar Valor Venta" />
+                                                            </th>       
+                                                        </tr>
+                                                        <tr style="background-color:#244e40">
+                                                            <th data-class="expand">Opc</th>
+                                                            <th>id</th>
+                                                            <th>Empleado</th>
+                                                            <th>Especialidad</th>
+                                                            <th>Cantidad</th>
+                                                            <th>Costo Hora</th>
+                                                            <th>Costo Regular</th>
+                                                            <th>Costo Extendido</th>
+                                                            <th>Valor Venta</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody></tbody>
+                                                </table>
+                                                <br />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                            <!-- end widget content -->
+                        </div>
+                        <!-- end widget div -->
+
+                    </div>
+                    <!-- end widget -->
+
+                </article>
+                <!-- END COL -->
+            </div>
+            <!-- END ROW -->
+        </section>
+        <!-- end widget grid -->
+
+    </div>
+</div>
+
+
+<div id="idmodal"></div>
+<!-- modal -->
+<!-- END MAIN CONTENT -->
+@section pagespecific {
+    <script src="../Scripts/app/generico.js"></script>
+    <script src="../Scripts/app/OCompra/Nuevo.js"></script>
+}

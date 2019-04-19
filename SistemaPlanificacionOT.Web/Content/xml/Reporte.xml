@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<parametros>
+  <BaseFont>
+    <FontFamily name="TIMES_ROMAN" />
+    <FonSize name="8" />
+    <FontColor r="0" g="0" b="0" />
+  </BaseFont>
+  <BaseFontBold>
+    <FontFamily name="TIMES_ROMAN" />
+    <FonSize name="8" />
+    <FontColor r="0" g="0" b="0" />
+    <FontBold name="1" />
+    <!--Font.BOLD = 1 | Font.NORMAL = 0-->
+  </BaseFontBold>
+</parametros>

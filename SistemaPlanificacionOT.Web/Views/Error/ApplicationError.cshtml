@@ -1,0 +1,43 @@
+﻿@model SistemaPlanificacionOT.Web.Models.ErrorInfoModel
+<!-- MAIN CONTENT -->
+<div id="content">
+    <!-- row -->
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="text-center error-box">
+                        <h1 class="error-text tada animated"><i class="fa fa-bug text-danger error-icon-shadow"></i> Error 500</h1>
+                        <h2 class="font-xl"><strong>Oooops, Algo sali&oacute; mal!</strong></h2>
+                        <br />
+                        <p class="lead semi-bold">
+                            <strong>Usted ha experimentado un error técnico. Pedimos disculpas.</strong><br><br>
+                            <small>
+                                Reportelo en el sistema de incidencias <br> Trabajaremos duro para corregir este problema. Espere unos momentos y vuelva a realizar la operaci&oacute;n.
+                            </small>
+                        </p>
+                        <ul class="error-search text-left font-md">
+                            <li><a href="http://agr-lapp.agr-domain.local/apps/Gestion/GesIncidentes.nsf/xsp_Principal.xsp"><small>Reportar Error! <i class="fa fa-mail-forward"></i></small></a></li>
+                            <li><a href="http://agr-lapp.agr-domain.local/apps/sgai/sSGAI.nsf/xsp_Principal.xsp"><small>SGAI <i class="fa fa-mail-forward"></i></small></a></li>
+                            <li><a href="#" data-toggle="collapse" data-target="#error-text"><small>Detalles <i class="fa fa-mail-forward"></i></small></a></li>
+                        </ul>
+                        <div id="error-text" class="collapse">
+                            <span>
+                                @{
+                                    if (Model != null)
+                                    {
+                                        @Model.Message
+                                        <br />
+                                        @Model.StackTrace
+                                    }
+                                }
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end row -->
+</div>
+<!-- END MAIN CONTENT -->

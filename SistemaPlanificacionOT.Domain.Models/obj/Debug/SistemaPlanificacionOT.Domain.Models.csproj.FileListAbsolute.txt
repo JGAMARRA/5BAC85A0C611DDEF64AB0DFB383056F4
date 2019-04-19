@@ -1,0 +1,12 @@
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\PlataformaEvaluacionMasiva\SistemaPlanificacionOT.Domain.Models\bin\Debug\SistemaPlanificacionOT.Domain.Models.dll
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\PlataformaEvaluacionMasiva\SistemaPlanificacionOT.Domain.Models\bin\Debug\SistemaPlanificacionOT.Domain.Models.pdb
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\PlataformaEvaluacionMasiva\SistemaPlanificacionOT.Domain.Models\obj\Debug\SistemaPlanificacionOT.Domain.Models.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\PlataformaEvaluacionMasiva\SistemaPlanificacionOT.Domain.Models\obj\Debug\SistemaPlanificacionOT.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\PlataformaEvaluacionMasiva\SistemaPlanificacionOT.Domain.Models\obj\Debug\SistemaPlanificacionOT.Domain.Models.dll
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\PlataformaEvaluacionMasiva\SistemaPlanificacionOT.Domain.Models\obj\Debug\SistemaPlanificacionOT.Domain.Models.pdb
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\SPOT\SistemaPlanificacionOT.Domain.Models\bin\Debug\SistemaPlanificacionOT.Domain.Models.dll
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\SPOT\SistemaPlanificacionOT.Domain.Models\bin\Debug\SistemaPlanificacionOT.Domain.Models.pdb
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\SPOT\SistemaPlanificacionOT.Domain.Models\obj\Debug\SistemaPlanificacionOT.Domain.Models.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\SPOT\SistemaPlanificacionOT.Domain.Models\obj\Debug\SistemaPlanificacionOT.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\SPOT\SistemaPlanificacionOT.Domain.Models\obj\Debug\SistemaPlanificacionOT.Domain.Models.dll
+C:\Users\jorge\Downloads\PlataformaEvaluacionMasiva 201810312\SPOT\SistemaPlanificacionOT.Domain.Models\obj\Debug\SistemaPlanificacionOT.Domain.Models.pdb

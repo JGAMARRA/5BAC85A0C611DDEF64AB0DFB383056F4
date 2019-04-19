@@ -1,0 +1,2420 @@
+generacion 0 idcot 335 tipo_sel  cod  renta 1.9000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 18 soles: 32.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 41 soles: 154.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 22.6500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 52 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 22.8500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 19 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 2036 tipo_sel  cod PROPUESTA_0001 renta 57.6000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 45 soles: 24.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 55 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 14.3500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 33 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 27.3000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 47 soles: 136.5000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 32 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 31.7500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 15 soles: 154.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 6 soles: 52.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 33.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 4 soles: 56.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 33 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 2044 tipo_sel  cod PROPUESTA_0009 renta 42.5500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 64 soles: 45.5000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 41 soles: 154.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 23.1500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 52 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 2037 tipo_sel  cod PROPUESTA_0002 renta 54.4000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 4 soles: 56.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 19 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 7.9000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 61 soles: 140.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 55 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 22.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 34 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 2040 tipo_sel  cod PROPUESTA_0005 renta 46.5000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 11 soles: 136.5000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 32 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 29.3000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 28 soles: 45.5000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 6 soles: 52.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 24.7500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 33 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 2039 tipo_sel  cod PROPUESTA_0004 renta 47.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 43 soles: 27.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 62 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 15.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 8 soles: 8.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 26 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 34.9500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 54 soles: 32.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 30 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 12.1500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 61 soles: 140.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 62 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 17.4000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 29 soles: 84.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 18.1000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 11 soles: 136.5000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 30 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 33.3000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 24 soles: 143.5000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 30 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 28.6000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 27 soles: 28.0000 cant: 1
+
+---------------
+generacion 0 idcot 2042 tipo_sel  cod PROPUESTA_0007 renta 43.1500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 45 soles: 24.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 31 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta -4.5000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 26 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 26.8000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 54 soles: 32.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 41 soles: 154.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 36.3000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 31 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 2043 tipo_sel  cod PROPUESTA_0008 renta 42.7500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 4 soles: 56.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 38 soles: 101.5000 cant: 1
+
+---------------
+generacion 0 idcot 2041 tipo_sel  cod PROPUESTA_0006 renta 44.8500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 15 soles: 154.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 30 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 1.1500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 24 soles: 143.5000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 52 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 2045 tipo_sel  cod PROPUESTA_0010 renta 37.3500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 11 soles: 136.5000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 3 soles: 14.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 24.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 51 soles: 154.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 6 soles: 52.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 25.8000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 40 soles: 122.5000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 35 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 2038 tipo_sel  cod PROPUESTA_0003 renta 51.4000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 64 soles: 45.5000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 32 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 23.6000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 61 soles: 140.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 16 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 18.9000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 40 soles: 122.5000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 38 soles: 101.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 15.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 15 soles: 154.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 62 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 15.9500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 28 soles: 45.5000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 63 soles: 28.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 35.2000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 18 soles: 32.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 3 soles: 14.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 36.7000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 8 soles: 8.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 16 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 33.9500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 35 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 35.4500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 43 soles: 27.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 36 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 7.3500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 24 soles: 143.5000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 16 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 12.9500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 47 soles: 136.5000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 41 soles: 154.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 24.4000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 62 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 9.4500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 24 soles: 143.5000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 63 soles: 28.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 1.9000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 18 soles: 32.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 41 soles: 154.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 22.6500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 52 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 22.8500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 19 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 57.6000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 45 soles: 24.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 55 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 14.3500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 33 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 27.3000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 47 soles: 136.5000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 32 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 31.7500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 15 soles: 154.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 6 soles: 52.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 33.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 4 soles: 56.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 33 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 42.5500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 64 soles: 45.5000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 41 soles: 154.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 23.1500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 52 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 54.4000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 4 soles: 56.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 19 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 7.9000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 61 soles: 140.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 55 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 22.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 34 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 46.5000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 11 soles: 136.5000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 32 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 29.3000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 28 soles: 45.5000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 6 soles: 52.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 24.7500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 33 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 47.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 43 soles: 27.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 62 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 15.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 8 soles: 8.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 26 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 34.9500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 54 soles: 32.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 30 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 12.1500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 61 soles: 140.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 62 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 17.4000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 29 soles: 84.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 18.1000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 11 soles: 136.5000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 30 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 33.3000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 24 soles: 143.5000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 30 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 28.6000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 27 soles: 28.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 43.1500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 45 soles: 24.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 31 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta -4.5000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 26 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 26.8000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 54 soles: 32.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 41 soles: 154.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 36.3000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 31 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 42.7500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 4 soles: 56.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 38 soles: 101.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 44.8500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 15 soles: 154.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 30 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 1.1500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 24 soles: 143.5000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 52 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 37.3500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 11 soles: 136.5000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 3 soles: 14.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 24.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 51 soles: 154.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 6 soles: 52.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 25.8000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 40 soles: 122.5000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 35 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 51.4000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 64 soles: 45.5000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 32 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 23.6000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 61 soles: 140.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 16 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 18.9000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 40 soles: 122.5000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 38 soles: 101.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 15.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 15 soles: 154.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 62 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 15.9500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 28 soles: 45.5000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 63 soles: 28.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 35.2000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 18 soles: 32.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 3 soles: 14.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 36.7000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 8 soles: 8.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 16 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 33.9500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 35 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 35.4500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 43 soles: 27.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 36 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 7.3500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 24 soles: 143.5000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 16 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 12.9500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 47 soles: 136.5000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 41 soles: 154.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 24.4000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 62 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 9.4500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 24 soles: 143.5000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 63 soles: 28.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 1.9000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 18 soles: 32.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 41 soles: 154.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 22.6500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 52 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 22.8500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 19 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 57.6000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 45 soles: 24.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 55 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 14.3500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 33 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 27.3000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 47 soles: 136.5000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 32 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 31.7500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 15 soles: 154.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 6 soles: 52.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 33.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 4 soles: 56.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 33 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 42.5500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 64 soles: 45.5000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 41 soles: 154.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 23.1500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 52 soles: 77.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 54.4000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 4 soles: 56.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 19 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 7.9000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 61 soles: 140.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 55 soles: 20.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 22.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 34 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 46.5000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 11 soles: 136.5000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 32 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 29.3000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 28 soles: 45.5000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 6 soles: 52.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 24.7500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 33 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 47.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 43 soles: 27.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 62 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 15.0500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 8 soles: 8.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 26 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 34.9500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 54 soles: 32.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 30 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 12.1500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 61 soles: 140.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 62 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 17.4000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 29 soles: 84.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 18.1000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 11 soles: 136.5000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 30 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 33.3000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 24 soles: 143.5000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 30 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 28.6000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 25 soles: 140.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 48 soles: 16.0000 cant: 1
+id: 27 soles: 28.0000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 43.1500 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 45 soles: 24.0000 cant: 1
+id: 59 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 7 soles: 10.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 31 soles: 10.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta -4.5000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 60 soles: 143.5000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 57 soles: 175.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 42 soles: 105.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 49 soles: 43.0000 cant: 1
+id: 26 soles: 66.5000 cant: 1
+
+---------------
+generacion 0 idcot 335 tipo_sel  cod  renta 26.8000 calidad 92.8571428571429
+celdas 
+
+componentes 
+id: 990 soles: 10.0000 cant: 1
+id: 1034 soles: 10.0000 cant: 12
+id: 398 soles: 10.0000 cant: 1
+id: 292 soles: 10.0000 cant: 6
+
+especialidad 
+id: 54 soles: 32.0000 cant: 1
+id: 23 soles: 9.0000 cant: 1
+id: 21 soles: 175.0000 cant: 1
+id: 2 soles: 49.0000 cant: 1
+id: 39 soles: 9.0000 cant: 1
+id: 13 soles: 43.0000 cant: 1
+id: 12 soles: 16.0000 cant: 1
+id: 41 soles: 154.0000 cant: 1
+
+---------------

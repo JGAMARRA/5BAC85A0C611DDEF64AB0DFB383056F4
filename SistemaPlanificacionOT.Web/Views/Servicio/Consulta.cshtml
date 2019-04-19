@@ -1,0 +1,117 @@
+﻿<div id="content">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <h1 class="page-title txt-color-blueDark">
+                <i class="fa fa-file-text-o"></i>
+                Mantenimiento
+                <span>
+                    >
+                    Servicio
+                </span>
+            </h1>
+        </div>
+    </div>
+
+    <section id="widget-grid" class="">
+        <!-- row CONSULTA DE SERVICIO -->
+        <div class="row" id="div-Consulta-Servicio">
+            <!-- NEW WIDGET START -->
+            <article class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <!-- PARAMETROS BUSQUEDA -->
+                <div class="jarviswidget" id="wid-id-0" data-widget-editbutton="false" data-widget-deletebutton="false">
+                    <header role="heading">
+                        <span class="widget-icon"> <i class="fa fa-filter"></i> </span>
+                        <h2>Opciones</h2>
+                    </header>
+                    <!-- widget div-->
+                    <div class="widget-body">
+                        <div class="smart-form">
+                            <div id="div-errors"></div>
+                            <form id="frm-Busqueda">
+                                <fieldset>
+
+                                    <footer>
+                                        @*<button type="button" class="btn btn-default" id="btnEliminar">
+                                                <i class="fas fa-trash-alt"></i> Eliminar
+                                            </button>
+                                            <button type="button" class="btn btn-default" id="btnEditar">
+                                                <i class="fas fa-edit"></i> Editar
+                                            </button>
+                                                                            <button type="button" class="btn btn-default" id="btnNuevo">
+                                                                                <i class="fas fa-file-plus"></i> Nuevo
+                                                                            </button>*@
+                                        <button type="button" class="btn btn-primary" onclick="javascript:Crear();" data-toggle="modal" data-target="#exampleModal" id="btnBuscar">
+                                            Buscar
+                                        </button>
+
+                                    </footer>
+                                </fieldset>
+                            </form>
+
+                        </div>
+                    </div>
+                    <!-- end widget div -->
+                </div>
+
+                <!-- DATATABLE SERVICIO -->
+                <div class="jarviswidget jarviswidget-color-blueDark" id="wid-id-Bandeja" data-widget-editbutton="false" data-widget-deletebutton="false">
+                    <header>
+                        <span class="widget-icon"> <i class="fa fa-table"></i> </span>
+                        <h2> Relación de Servicios </h2>
+                    </header>
+                    <!-- widget div-->
+                    <div>
+                        @*<!-- widget edit box -->
+                            <div class="jarviswidget-editbox">
+                                <!-- This area used as dropdown edit box -->
+                            </div>*@
+                        <!-- end widget edit box -->
+                        <!-- widget content -->
+                        <div class="widget-body no-padding">
+                            <table id="datatable_Servicio" class="table" width="100%">
+                                <thead>
+                                    <tr style="background-color:#244e40">
+
+                                        <td style="width:30%"></td>
+                                        @*    <th style="width:5%">
+                                                <input type="text" class="form-control" placeholder="Filtrar id" />
+                                            </th>
+                                            <th style="width:20%">
+                                                <input type="text" class="form-control" placeholder="Filtrar servicio" />
+                                            </th>
+                                            <th style="width:5%">
+                                                <input type="text" class="form-control" placeholder="Filtrar costo" />
+                                            </th>
+                                            <th style="width:5%">
+                                                <input type="text" class="form-control" placeholder="Filtrar Moneda" />
+                                            </th>*@
+
+                                    </tr>
+                                    <tr style="background-color:#244e40">
+                                        <th></th>
+                                        <th>id</th>
+                                        <th>servicio</th>
+                                        <th>costo</th>
+                                        <th>moneda</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                            <br />
+                        </div>
+                        <!-- end widget content -->
+                    </div>
+                    <!-- end widget div -->
+                </div>
+                <div id="idmodal"></div>
+            </article>
+        </div>
+    </section>
+</div>
+
+@section pagespecific {
+    <script src="../Scripts/app/generico.js"></script>
+    <script src="../Scripts/app/Servicio/Servicio.js"></script>
+}
+
+

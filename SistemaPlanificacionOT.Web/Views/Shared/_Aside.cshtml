@@ -1,0 +1,82 @@
+﻿    <!-- Left panel : Navigation area -->
+<!-- Note: This width of the aside area can be adjusted through LESS variables -->
+<aside id="left-panel">
+    <!-- User info -->
+    @{ Html.RenderPartial("_CurrentUser"); }
+    <!-- end user info -->
+    <!-- NAVIGATION : This navigation is also responsive
+
+    To make this navigation dynamic please make sure to link the node
+    (the reference to the nav > ul) after page load. Or the navigation
+    will not initialize.
+    -->
+    <nav>
+        <!-- NOTE: Notice the gaps after each icon usage <i></i>..
+        Please note that these links work a bit different than
+        traditional href="" links. See documentation for details.
+        --> 
+        <ul>
+            <li class="@Html.RouteIf("index", "active")">
+                <a href="@Url.Action("index", "home")" title="Inicio"><i class="fa fa-lg fa-fw fa-home"></i> <span class="menu-item-parent">Inicio</span></a>
+            </li>
+
+            @*<li class="@Html.RouteIf("inbox", "active")">
+            <a href="@Url.Action("inbox", "home")"><i class="fa fa-lg fa-fw fa-inbox"></i> <span class="menu-item-parent">Inbox</span><span class="badge pull-right inbox-badge">14</span></a>
+        </li>*@
+
+            <li class="@Html.RouteIf("Servicio", "active")">
+                <a href="#"><i class="fa fa-lg fa-fw fa-file-text-o"></i> <span class="menu-item-parent">Mantenimiento</span></a>
+                <ul>
+                    <li class="@Html.RouteIf("Servicio", "active")">
+                        <a href="@Url.Action("Consulta", "Servicio")">Consultar</a>
+                    </li>
+
+                </ul>
+            </li>
+
+            <li class="@Html.RouteIf("Cotizacion", "active")">
+                <a href="#"><i class="fa fa-lg fa-fw fa-file-text-o"></i> <span class="menu-item-parent">Cotización</span></a>
+                <ul>
+                    <li class="@Html.RouteIf("Consultar", "active")">
+                        <a href="@Url.Action("Consultar", "Cotizacion")">Consultar</a>
+                    </li>
+                    @*<li class="@Html.RouteIf("Nuevo", "active")">
+                    <a href="@Url.Action("Nuevo", "Cotizacion")">Crear</a>
+                </li>*@
+                </ul>
+            </li>
+
+            <li class="@Html.RouteIf("OCompra", "active")">
+                <a href="#"><i class="fa fa-lg fa-fw fa-list-ol"></i> <span class="menu-item-parent">Orden de Compra</span></a>
+                <ul>
+                    <li class="@Html.RouteIf("Consultar", "active")">
+                        <a href="@Url.Action("Consultar", "OCompra")">Consultar</a>
+                    </li>
+                    @*<li class="@Html.RouteIf("BandejaAgrupamiento", "active")">
+                    <a href="@Url.Action("BandejaAgrupamiento", "Grupo")"></a>
+                </li>*@
+                </ul>
+            </li>
+            <li class="@Html.RouteIf("OT", "active")">
+                <a href="#"><i class="fa fa-lg fa-fw fa-list-ol"></i> <span class="menu-item-parent">OT</span></a>
+                <ul>
+                    <li class="@Html.RouteIf("Consultar", "active")">
+                        <a href="@Url.Action("Consultar", "OT")">Generar OT</a>
+                    </li>
+                    @*<li class="@Html.RouteIf("BandejaAgrupamiento", "active")">
+                    <a href="@Url.Action("BandejaAgrupamiento", "Grupo")"></a>
+                </li>*@
+                </ul>
+            </li>
+
+            @*<li class="@Html.RouteIf("Seguimiento", "active")">
+            <a href="@Url.Action("Seguimiento", "Seguimiento")"><i class="fa fa-lg fa-fw fa-laptop"></i> <span class="menu-item-parent">Seguimiento</span><span class="badge pull-right inbox-badge">14</span></a>
+        </li>*@
+
+        </ul>
+    </nav>
+    <span class="minifyme" data-action="minifyMenu">
+        <i class="fa fa-arrow-circle-left hit"></i>
+    </span>
+</aside>
+<!-- END NAVIGATION -->
