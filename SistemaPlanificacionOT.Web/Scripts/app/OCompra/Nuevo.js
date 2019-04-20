@@ -313,16 +313,16 @@ function grabar() {
 
 
 
-    //var table = $('#datatable_Especialidades').DataTable();
+    var table = $('#datatable_Especialidades').DataTable();
     var table1 = $('#datatable_Componentes').DataTable();
     var table2 = $('#datatable_Celda').DataTable();
     var table3 = $('#datatable_Servicios').DataTable();
     var table4 = $('#datatable_Empleados').DataTable();
-    //table
-    //    .data()
-    //    .each(function (obj, index) {
-    //        array_especialidades.push(obj);
-    //    });
+    table
+        .data()
+        .each(function (obj, index) {
+            array_especialidades.push(obj);
+        });
     table1
         .data()
         .each(function (obj, index) {
