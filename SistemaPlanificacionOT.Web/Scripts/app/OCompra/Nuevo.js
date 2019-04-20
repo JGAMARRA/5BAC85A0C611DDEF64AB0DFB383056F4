@@ -2,11 +2,31 @@
     var arr_solicitud = [];
     CargarDatosGeneralesCotizacion();
     CargarServicios();
-    //CargarEspecialidades();
+    CargarEspecialidades();
     CargarComponentes();
     CargarCeldas();
+
     CargarEmpleados();
 });
+function CargarEspecialidades() {
+
+    var columns = [{
+        'align': 'center',
+        'className': 'dt-body-center',
+        'render': function (data, type, dataItem, meta) {
+            return '<div><button class="btn btn-default"><a href="javascript:eliminar(\'' + dataItem.idespecialidad + '\');">' +
+                'Eliminar ' +
+                '</a></button></div>';
+        }
+    },
+    { "data": "idespecialidad" },
+    { "data": "nombre" },
+    { "data": "cantidad" }
+    ];
+    //$('#datatable_Servicios').DataTable().clear().draw();
+    //$('#datatable_Servicios').dataTable().fnAddData(data);
+    CargarTabla('#datatable_Especialidades', [], columns, false, false, "");
+}
 function CargarServicios() {
 
     var columns = [{

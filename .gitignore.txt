@@ -1,0 +1,9 @@
+SistemaPlanificacionOT.Web/bin
+SistemaPlanificacionOT.Web/obj
+SistemaPlanificacionOT.Persistence/bin
+SistemaPlanificacionOT.Persistence/obj
+SistemaPlanificacionOT.Infraestructure/bin
+SistemaPlanificacionOT.Infraestructure/obj
+.vs
+.vs/SistemaPlanificacionOT/v15/Server/sqlite3/storage.ide-shm
+.vs/SistemaPlanificacionOT/v15/Server/sqlite3/storage.ide-wal
